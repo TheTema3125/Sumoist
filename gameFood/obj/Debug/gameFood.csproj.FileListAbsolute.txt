@@ -1,0 +1,11 @@
+C:\Users\temka\source\repos\gameFood\gameFood\bin\Debug\gameFood.exe.config
+C:\Users\temka\source\repos\gameFood\gameFood\bin\Debug\gameFood.exe
+C:\Users\temka\source\repos\gameFood\gameFood\bin\Debug\gameFood.pdb
+C:\Users\temka\source\repos\gameFood\gameFood\obj\Debug\gameFood.csproj.AssemblyReference.cache
+C:\Users\temka\source\repos\gameFood\gameFood\obj\Debug\gameFood.csproj.SuggestedBindingRedirects.cache
+C:\Users\temka\source\repos\gameFood\gameFood\obj\Debug\gameFood.FiledGame.resources
+C:\Users\temka\source\repos\gameFood\gameFood\obj\Debug\gameFood.Properties.Resources.resources
+C:\Users\temka\source\repos\gameFood\gameFood\obj\Debug\gameFood.csproj.GenerateResource.cache
+C:\Users\temka\source\repos\gameFood\gameFood\obj\Debug\gameFood.csproj.CoreCompileInputs.cache
+C:\Users\temka\source\repos\gameFood\gameFood\obj\Debug\gameFood.exe
+C:\Users\temka\source\repos\gameFood\gameFood\obj\Debug\gameFood.pdb
